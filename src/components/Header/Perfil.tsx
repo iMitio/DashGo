@@ -19,14 +19,14 @@ export function Perfil ({showProfileData= true}:  PerfilProps) {
                 color="gray.300"
                 fontSize="small"
             >
-                inanorin5@gmail.com
+                noguchimitio@gmail.com
             </Text>
         </Box>
        ) }
 
         <Avatar
             size="md"
-            name="nanorin"
+            name="Mitio"
         />
     </Flex>
     )
